@@ -13,6 +13,7 @@ BanditFuzz is a multi-agent reinforcement learning guided performance fuzzing al
 * Trishal Sudula
 * Vijay Ganesh (Principal Investigator)
 
+The BanditFuzz team would like to thank Aina Niemetz, Mathias Periner, Martin Brain, Murphy Berzish, and Mitja Kulczynski for their feedback while the project was under development. 
 
 ## SMT '20 Talk
 
