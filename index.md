@@ -17,10 +17,12 @@ The BanditFuzz team would like to thank Aina Niemetz, Mathias Periner, Martin Br
 
 ## SMT '20 Talk
 
-[![Talk](https://img.youtube.com/vi/OfZaIUXltf4/0.jpg)](https://youtu.be/OfZaIUXltf4?t=3964)
+[![Talk](https://img.youtube.com/vi/OfZaIUXltf4/0.jpg)](https://youtu.be/OfZaIUXltf4?t=4013)
 
 
-## Header 2
+## Publications
+
+[BanditFuzz: A Reinforcement-Learning Based Performance Fuzzer for SMT Solvers](https://www.semanticscholar.org/paper/BanditFuzz%3A-A-Reinforcement-Learning-Based-Fuzzer-Scott-Mora/4dd1361dd215cc2d02f178f4ec307b74a4f51cbb)
 
 > This is a blockquote following a header.
 >
