@@ -7,11 +7,11 @@ layout: default
 BanditFuzz is a multi-agent reinforcement learning guided performance fuzzing algorithm. BanditFuzz has extensively been considered in the context of Satisfiability Modulo Theories (SMT)  solvers. BanditFuzz constructs inputs that expose performance issues in a set of target solvers relative to a set of reference solvers. The `banditfuzz` tool is the first performance fuzzer that supports the entirety of the theories in the SMT-LIB initiative. 
 
 ## People
-* Joseph Scott
-* Federico Mora
+* [Joseph Scott](https://www.joe-scott.net/)
+* [Federico Mora](https://federico.morarocha.ca)
 * Hammad Rehman
 * Trishal Sudula
-* Vijay Ganesh (Principal Investigator)
+* [Vijay Ganesh (Principal Investigator)](https://ece.uwaterloo.ca/~vganesh/)
 
 The BanditFuzz team would like to thank Aina Niemetz, Mathias Periner, Martin Brain, Murphy Berzish, and Mitja Kulczynski for their feedback while the project was under development. 
 
